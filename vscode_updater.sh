@@ -19,4 +19,4 @@ sudo rm code
 
 sudo ln -s ~/vscode/VSCode-linux-x64/bin/code code
 
-# TODO: add this file into a part of the setup script and make this a bin file
+
